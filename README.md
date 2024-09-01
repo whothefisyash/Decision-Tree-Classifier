@@ -1,4 +1,4 @@
-# Decision Tree Classifier
+# Decision Tree Visualizer
 This project demonstrates the implementation of a Decision Tree Classifier using Scikit-learn and visualizes the decision boundary and the tree structure. The classifier is applied to a synthetic dataset to illustrate its performance and characteristics.
 
 ## Overview
