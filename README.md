@@ -34,8 +34,3 @@ Visualization:
 Decision Boundary: The decision boundary is visualized using a contour plot, which shows how the classifier partitions the feature space.
 Decision Tree: The structure of the trained Decision Tree is visualized using the dtreeviz library, which provides a detailed and interpretable tree diagram.
 Running the Application: The application is run using Streamlit, providing an interactive and user-friendly interface.
-
-Code Structure
-app.py: The main application file that includes the implementation of the Decision Tree Classifier, the Streamlit interface, and the visualization logic.
-assets/: This directory contains any assets used by the application, such as images or additional data files (if any).
-README.md: This file, which provides an overview of the project, features, and usage instructions.
